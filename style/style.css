@@ -1,0 +1,49 @@
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    padding-top: 30px;
+    
+   
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.boxofresult{
+    display: flex;
+    padding: 10px;
+   
+   
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+img{
+     width: 300px;
+    padding: 10px;
+}
+.text2{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    padding-top: 30px;
+}
+.rps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+}
+.rps img:hover{
+    box-shadow: -1px 0px 5px 16px rgba(54,26,214,1);
+}
